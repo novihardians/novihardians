@@ -1,5 +1,5 @@
 ## Hello there 👋 
-My name is Novi Hardiansyah. Call me Novi, Omesh or whatever you want :D (just kidding buddy). I'm a Freelance Web Programmer and a Former Coding Instructure at LKP (Lembaga Kursus dan Pelatihan).
+My name is Novi Hardiansyah. Call me Novi, Omesh or whatever you want :D (just kidding buddy). I'm a Freelance Web Programmer and a Former Coding Instructor at LKP (Lembaga Kursus dan Pelatihan).
 
 ## 💼 Career
 **Freelance App Developer (2018 - present)**
@@ -8,7 +8,7 @@ I have done many small projects in developing Web Apps for clients. I have finis
 In 2021, i have assembled tools using ESP8266 Wi-Fi MCU and Arduino IDE for measuring the Air Quality Index which the generated numbers were sent to the secure website by programmed codes.
 
 
-**Coding instructor (Feb 2019 - Des 2023)**
+**Coding Instructor (Feb 2019 - Des 2023)**
 
 Teaching students, college students and the general public.
 
