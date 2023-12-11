@@ -1,4 +1,4 @@
-## Hello there 👋 
+## Hello all 👋 
 My name is Novi Hardiansyah. Call me Novi, Omesh or whatever you want :D (just kidding buddy). I'm a specialist in Backend Engineering and a Former Coding Instructor at LKP (Lembaga Kursus dan Pelatihan).
 
 ## 💼 Career
