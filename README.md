@@ -1,4 +1,4 @@
-### Hi there 👋 
+## Hello, Buddy 👋 
 My name is Novi Hardiansyah. Call me Novi, Omesh or whatever you want :D (just kidding buddy). I'm a Freelance Web Programmer and a Former Coding Instructure at LKP (Lembaga Kursus dan Pelatihan).
 
 ## 💼 Career
