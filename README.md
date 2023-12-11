@@ -14,7 +14,7 @@ Teaching students, college students and the general public.
 
 ## 📫 How to reach me:
 * Twitter : @novihardians
-* LinkeIn : Novi Hardiansyah
+* LinkedIn : Novi Hardiansyah
 * IG : @novihardiansyah99
 <!--
 **novihardians/novihardians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
